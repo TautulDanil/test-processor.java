@@ -1,0 +1,9 @@
+cat > test.txt << 'EOF'
+Semne de punctuatie: . , ! ? ; : ' " - _ ( ) [ ] { } / \ @ # $ % ^ & * + = ~ < > |
+Elimina spatii multiple: WWWW   Gooooddd buuun   aha
+Lower Case:     LETS GO WUNDERBAR 
+Upper Case:     sadfsfgndfhn
+minim de litere: dsgkdfnhjk fjdgndfjk d dsfds kdf sdl sdlsldslds
+Doar numerele: 123sadsad2323sadfds56346547fdg
+
+EOF
